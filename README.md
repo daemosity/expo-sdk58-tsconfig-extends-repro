@@ -1,4 +1,4 @@
-# Expo SDK 58: `extends: "expo/tsconfig.base"` doesn't resolve with `exports`-aware resolvers
+# [SDK 58][expo] `"extends": "expo/tsconfig.base"` no longer resolves in exports-aware tools: the `"./*"` export maps it to `tsconfig.base.js`
 
 ## Summary
 
