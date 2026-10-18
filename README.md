@@ -67,9 +67,10 @@ git restore tsconfig.json                                          # restore the
 - `eslint-import-resolver-typescript`: 4.4.5 (`unrs-resolver` 1.12.2)
 - Recorded: 2026-10-17
 
-## Related issue
+## Related
 
 - See issue [#51748](https://github.com/expo/expo/issues/51748)
+- See PR [#51751](https://github.com/expo/expo/pull/51751)
 
 ## How this repo was built
 
