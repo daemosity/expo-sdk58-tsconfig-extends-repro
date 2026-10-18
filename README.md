@@ -69,7 +69,7 @@ git restore tsconfig.json                                          # restore the
 
 ## Related issue
 
-- Issue #[fill when issue is submitted]
+- See issue [#51748](https://github.com/expo/expo/issues/51748)
 
 ## How this repo was built
 
